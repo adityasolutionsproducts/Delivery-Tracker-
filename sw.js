@@ -1,5 +1,5 @@
 /* Delivery Tracker service worker — offline-first caching */
-var CACHE = 'delivery-tracker-v8';
+var CACHE = 'delivery-tracker-v9';
 var ASSETS = [
   './',
   './index.html',
